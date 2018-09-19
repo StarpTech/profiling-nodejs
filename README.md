@@ -1,6 +1,8 @@
 # profile-nodejs
 ☕ Collection of articles and tools to efficiently profile Node.js
 
+**Listing requirements:** OS independent and Opensource ✊
+
 ## Flamegraphs
 
 - [0x](https://github.com/davidmarkclements/0x) - Single-command flamegraph profiling.
@@ -22,6 +24,10 @@
 - [fastbench](https://github.com/mcollina/fastbench) - The simplest benchmark you can run on node
 - [branch-comparer](https://github.com/starptech/branch-comparer) - Checkout multiple git branches, execute scripts and log the results
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
+
+### Articles
+
+- [Introducing Clinic Bubbleprof, a Unique Way to Visualise Node.Js Code](https://www.nearform.com/blog/introducing-clinic-bubbleprof-a-unique-way-to-visualise-node-js-code/)
 
 ### Related lists
 
