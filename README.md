@@ -8,6 +8,7 @@
 - [0x](https://github.com/davidmarkclements/0x) - Single-command flamegraph profiling.
 - [flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for V8 and Node.
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
+- [node-clinic-flame](https://github.com/nearform/node-clinic-flame) - Programmable interface to clinic flame (Use 0x under the hood)
 
 ## Monitoring
 
