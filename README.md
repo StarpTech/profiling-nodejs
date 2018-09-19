@@ -31,6 +31,7 @@
 ### Articles
 
 - [Introducing Clinic Bubbleprof, a Unique Way to Visualise Node.Js Code](https://www.nearform.com/blog/introducing-clinic-bubbleprof-a-unique-way-to-visualise-node-js-code/)
+- [Introduction to libuv](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - An Introduction to libuv Release 2.0.0
 
 ### Related lists
 
