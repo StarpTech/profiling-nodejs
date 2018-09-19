@@ -32,6 +32,13 @@
 
 - [Introducing Clinic Bubbleprof, a Unique Way to Visualise Node.Js Code](https://www.nearform.com/blog/introducing-clinic-bubbleprof-a-unique-way-to-visualise-node-js-code/)
 - [Introduction to libuv](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - An Introduction to libuv Release 2.0.0
+- [Learning v8](https://github.com/danbev/learning-v8) - Project for learning V8 internals
+- [Learning Node.js](https://github.com/danbev/learning-nodejs) - Project for learning Node.js internals
+
+### Blog of V8 Javascript Engine
+> https://v8project.blogspot.com/
+
+This is the official blog of the V8 JavaScript engine which report in regular intervals about improvements and insights.
 
 ### Related lists
 
