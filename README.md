@@ -13,6 +13,7 @@
 - [node-clinic-bubbleprof](https://github.com/nearform/node-clinic-bubbleprof) - Programmable interface to `clinic bubbleprof` (async profiling)
 - [node-clinic-doctor](https://github.com/nearform/node-clinic-doctor) - Programmable interface to `clinic doctor` (memory, cpu, process stats)
 - [node-trace-events-parser](https://github.com/nearform/node-trace-events-parser) - Fast streaming parser for Node.js trace events
+- [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 
 ## Benchmarking
 
@@ -20,6 +21,7 @@
 - [nanobench](https://github.com/mafintosh/nanobench) - Simple benchmarking tool with TAP-like output that is easy to parse
 - [fastbench](https://github.com/mcollina/fastbench) - The simplest benchmark you can run on node
 - [branch-comparer](https://github.com/starptech/branch-comparer) - Checkout multiple git branches, execute scripts and log the results
+- [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 
 ### Related lists
 
