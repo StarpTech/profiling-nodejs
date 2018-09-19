@@ -3,14 +3,14 @@
 
 **Listing requirements:** OS independent, Opensource and free of commercial ✊
 
-## Flamegraphs
+## 🔥 Flamegraphs
 
 - [0x](https://github.com/davidmarkclements/0x) - Single-command flamegraph profiling.
 - [flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for V8 and Node.
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [node-clinic-flame](https://github.com/nearform/node-clinic-flame) - Programmable interface to clinic flame (Use 0x under the hood)
 
-## Monitoring
+## 👀 Monitoring
 
 - [node-clinic](https://github.com/nearform/node-clinic) - Dashboard to diagnose your Node.js performance issues
 - [node-clinic-bubbleprof](https://github.com/nearform/node-clinic-bubbleprof) - Programmable interface to `clinic bubbleprof` (async profiling)
@@ -19,7 +19,7 @@
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [Async hooks](https://nodejs.org/dist/latest-v10.x/docs/api/async_hooks.html) - API to register callbacks tracking the lifetime of asynchronous resources created inside a Node.js application
 
-## Benchmarking
+## 🎏 Benchmarking
 
 - [autocannon](https://github.com/mcollina/autocannon) - Fast HTTP/1.1 benchmarking tool written in Node.js
 - [nanobench](https://github.com/mafintosh/nanobench) - Simple benchmarking tool with TAP-like output that is easy to parse
@@ -28,7 +28,7 @@
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 
-### Articles
+### 📄 Articles
 
 - [Introducing Clinic Bubbleprof, a Unique Way to Visualise Node.Js Code](https://www.nearform.com/blog/introducing-clinic-bubbleprof-a-unique-way-to-visualise-node-js-code/)
 - [Introduction to libuv](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - An Introduction to libuv Release 2.0.0
