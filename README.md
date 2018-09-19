@@ -17,6 +17,9 @@
 ## Benchmarking
 
 - [autocannon](https://github.com/mcollina/autocannon) - Fast HTTP/1.1 benchmarking tool written in Node.js
+- [nanobench](https://github.com/mafintosh/nanobench) - Simple benchmarking tool with TAP-like output that is easy to parse
+- [fastbench](https://github.com/mcollina/fastbench) - The simplest benchmark you can run on node
+- [branch-comparer](https://github.com/starptech/branch-comparer) - Checkout multiple git branches, execute scripts and log the results
 
 ### Related lists
 
