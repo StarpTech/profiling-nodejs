@@ -27,6 +27,7 @@
 - [branch-comparer](https://github.com/starptech/branch-comparer) - Checkout multiple git branches, execute scripts and log the results
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
+- [perf hooks](https://nodejs.org/dist/latest-v10.x/docs/api/perf_hooks.html) - The Performance Timing API provides an implementation of the W3C Performance Timeline specification.
 
 ### 📄 Articles
 
