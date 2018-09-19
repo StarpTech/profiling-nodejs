@@ -1,5 +1,5 @@
-# profile-nodejs
-☕ Collection of articles and tools to efficiently profile Node.js
+# profiling-nodejs
+🌌 Collection of articles and tools to efficiently profile Node.js
 
 **Listing requirements:** OS independent, Opensource and free of commercial ✊
 
