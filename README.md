@@ -37,6 +37,7 @@
 - [Learning Node.js](https://github.com/danbev/learning-nodejs) - Project for learning Node.js internals
 - [Optimizing prototypes](https://mathiasbynens.be/notes/prototypes) - JavaScript engine fundamentals: optimizing prototypes
 - [Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) - JavaScript engine fundamentals: Shapes and Inline Caches
+- [Flame Graphs](http://www.brendangregg.com/flamegraphs.html) — Explanation of what are flame graphs and what types exist.
 
 ### Blog of V8 Javascript Engine
 > https://v8project.blogspot.com/
