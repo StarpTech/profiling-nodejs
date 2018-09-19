@@ -26,6 +26,7 @@
 - [fastbench](https://github.com/mcollina/fastbench) - The simplest benchmark you can run on node
 - [branch-comparer](https://github.com/starptech/branch-comparer) - Checkout multiple git branches, execute scripts and log the results
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
+- [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 
 ### Articles
 
