@@ -26,12 +26,12 @@
 - [fastbench](https://github.com/mcollina/fastbench) - The simplest benchmark you can run on node
 - [branch-comparer](https://github.com/starptech/branch-comparer) - Checkout multiple git branches, execute scripts and log the results
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
-- [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
-- [perf hooks](https://nodejs.org/dist/latest-v10.x/docs/api/perf_hooks.html) - The Performance Timing API provides an implementation of the W3C Performance Timeline specification.
+- [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com
+- [perf hooks](https://nodejs.org/dist/latest-v10.x/docs/api/perf_hooks.html) - The Performance Timing API provides an implementation of the W3C Performance Timeline specification
 
 ### 📄 Articles
 
-- [Introducing Clinic Bubbleprof, a Unique Way to Visualise Node.Js Code](https://www.nearform.com/blog/introducing-clinic-bubbleprof-a-unique-way-to-visualise-node-js-code/)
+- [Introducing Clinic Bubbleprof](https://www.nearform.com/blog/introducing-clinic-bubbleprof-a-unique-way-to-visualise-node-js-code/) - Introducing Clinic Bubbleprof, a Unique Way to Visualise Node.Js Code
 - [Introduction to libuv](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - An Introduction to libuv Release 2.0.0
 - [Learning v8](https://github.com/danbev/learning-v8) - Project for learning V8 internals
 - [Learning Node.js](https://github.com/danbev/learning-nodejs) - Project for learning Node.js internals
