@@ -29,6 +29,15 @@
 - [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com
 - [perf hooks](https://nodejs.org/dist/latest-v10.x/docs/api/perf_hooks.html) - The Performance Timing API provides an implementation of the W3C Performance Timeline specification
 
+## 🧐 Coverage
+
+- [c8](https://github.com/bcoe/c8) - Output coverage reports using Node.js' built in coverage
+- [nyc](https://github.com/istanbuljs/nyc) - The Istanbul command line interface
+
+## 👻 Tracing
+
+- [opentracing-javascript](https://github.com/opentracing/opentracing-javascript) - OpenTracing API for Javascript (both Node and browser)
+
 ### 📄 Articles
 
 - [Introducing Clinic Bubbleprof](https://www.nearform.com/blog/introducing-clinic-bubbleprof-a-unique-way-to-visualise-node-js-code/) - Introducing Clinic Bubbleprof, a Unique Way to Visualise Node.Js Code
