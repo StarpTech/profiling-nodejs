@@ -22,6 +22,7 @@
 ## 🎏 Benchmarking
 
 - [autocannon](https://github.com/mcollina/autocannon) - Fast HTTP/1.1 benchmarking tool written in Node.js
+- [artillery](https://github.com/artilleryio/artillery) - Modern, powerful, hackable backend & API testing toolkit. Load testing & functional testing.
 - [nanobench](https://github.com/mafintosh/nanobench) - Simple benchmarking tool with TAP-like output that is easy to parse
 - [fastbench](https://github.com/mcollina/fastbench) - The simplest benchmark you can run on node
 - [branch-comparer](https://github.com/starptech/branch-comparer) - Checkout multiple git branches, execute scripts and log the results
@@ -47,6 +48,7 @@
 - [Optimizing prototypes](https://mathiasbynens.be/notes/prototypes) - JavaScript engine fundamentals: optimizing prototypes
 - [Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) - JavaScript engine fundamentals: Shapes and Inline Caches
 - [Flame Graphs](http://www.brendangregg.com/flamegraphs.html) — Explanation of what are flame graphs and what types exist.
+- [Ready, Steady, Crash!](https://medium.com/ft-product-technology/ready-steady-crash-eeae63e89a77) A briefly introduction in artillery and load testing in general.
 
 ### Blog of V8 Javascript Engine
 > https://v8project.blogspot.com/
