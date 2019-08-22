@@ -18,6 +18,7 @@
 - [node-trace-events-parser](https://github.com/nearform/node-trace-events-parser) - Fast streaming parser for Node.js trace events
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [Async hooks](https://nodejs.org/dist/latest-v10.x/docs/api/async_hooks.html) - API to register callbacks tracking the lifetime of asynchronous resources created inside a Node.js application
+- [swagger-stats](https://github.com/slanatech/swagger-stats) - API Telemetry and APM - Trace API calls and Monitor API performance, health and usage statistics
 
 ## 🎏 Benchmarking
 
