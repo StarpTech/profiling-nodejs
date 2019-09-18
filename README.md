@@ -19,6 +19,7 @@
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [Async hooks](https://nodejs.org/dist/latest-v10.x/docs/api/async_hooks.html) - API to register callbacks tracking the lifetime of asynchronous resources created inside a Node.js application
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - API Telemetry and APM - Trace API calls and Monitor API performance, health and usage statistics
+- [deoptigate](https://github.com/thlorenz/deoptigate) - Visual interface to investigate in v8/Node.js function deoptimizations
 
 ## 🎏 Benchmarking
 
@@ -50,6 +51,7 @@
 - [Shapes and Inline Caches](https://mathiasbynens.be/notes/shapes-ics) - JavaScript engine fundamentals: Shapes and Inline Caches
 - [Flame Graphs](http://www.brendangregg.com/flamegraphs.html) — Explanation of what are flame graphs and what types exist.
 - [Ready, Steady, Crash!](https://medium.com/ft-product-technology/ready-steady-crash-eeae63e89a77) A briefly introduction in artillery and load testing in general.
+- [v8-perf](https://github.com/thlorenz/v8-perf) - Excellent resource to get a deep understanding how to write efficient code on v8.
 
 ### Blog of V8 Javascript Engine
 > https://v8project.blogspot.com/
